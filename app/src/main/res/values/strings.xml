@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Udacity Project Score Counter App</string>
+    <string name="real_score">0</string>
+    <string name="barce_score">0</string>
+    <string name="win">win</string>
+    <string name="draw">draw</string>
+    <string name="lose">lose</string>
+    <string name="reset">reset</string>
+</resources>
